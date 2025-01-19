@@ -24,12 +24,12 @@
   ],
   "translations": ["English", "Japanese"],
   "tables": [
+    { "name": "BaseItemTypes", "columns": ["Id", "Name"] },
     { "name": "ItemClasses", "columns": ["Id", "Name"] },
     { "name": "ItemClassCategories", "columns": ["Id", "Text"] },
     { "name": "Mods", "columns": ["Id", "Name"] },
-    { "name": "Tags", "columns": ["Id", "DisplayString"] },
-    { "name": "Words", "columns": ["Wordlist", "Text", "Text2"] },
-    { "name": "Stats", "columns": ["Id", "Semantic", "Text"] },
+    { "name": "Words", "columns": ["Wordlist", "Text2"] },
+    { "name": "Stats", "columns": ["Id", "Text"] },
     { "name": "ClientStrings", "columns": ["Id", "Text"] },
     { "name": "PassiveSkills", "columns": ["Id", "Name"] }
   ]
