@@ -1,0 +1,712 @@
+[
+  {
+    "English": {
+      "Id": "Flask",
+      "Text": "[Flask]"
+    },
+    "Japanese": {
+      "Id": "Flask",
+      "Text": "[Flask|フラスコ]"
+    }
+  },
+  {
+    "English": {
+      "Id": "One Hand Mace",
+      "Text": "[Mace|One Hand Mace]"
+    },
+    "Japanese": {
+      "Id": "One Hand Mace",
+      "Text": "[Mace|片手メイス]"
+    }
+  },
+  {
+    "English": {
+      "Id": "One Hand Sword",
+      "Text": "[Sword|One Hand Sword]"
+    },
+    "Japanese": {
+      "Id": "One Hand Sword",
+      "Text": "[Sword|片手剣]"
+    }
+  },
+  {
+    "English": {
+      "Id": "Dagger",
+      "Text": "[Dagger]"
+    },
+    "Japanese": {
+      "Id": "Dagger",
+      "Text": "[Dagger|短剣]"
+    }
+  },
+  {
+    "English": {
+      "Id": "Staff",
+      "Text": "[Staff]"
+    },
+    "Japanese": {
+      "Id": "Staff",
+      "Text": "[Staff|スタッフ]"
+    }
+  },
+  {
+    "English": {
+      "Id": "Warstaff",
+      "Text": "[Quarterstaff]"
+    },
+    "Japanese": {
+      "Id": "Warstaff",
+      "Text": "[Quarterstaff|クォータースタッフ]"
+    }
+  },
+  {
+    "English": {
+      "Id": "Currency",
+      "Text": "Currency"
+    },
+    "Japanese": {
+      "Id": "Currency",
+      "Text": "カレンシー"
+    }
+  },
+  {
+    "English": {
+      "Id": "Amulet",
+      "Text": "Amulet"
+    },
+    "Japanese": {
+      "Id": "Amulet",
+      "Text": "アミュレット"
+    }
+  },
+  {
+    "English": {
+      "Id": "Ring",
+      "Text": "Ring"
+    },
+    "Japanese": {
+      "Id": "Ring",
+      "Text": "指輪"
+    }
+  },
+  {
+    "English": {
+      "Id": "Claw",
+      "Text": "[Claw]"
+    },
+    "Japanese": {
+      "Id": "Claw",
+      "Text": "[Claw|鉤爪]"
+    }
+  },
+  {
+    "English": {
+      "Id": "Wand",
+      "Text": "[Wand]"
+    },
+    "Japanese": {
+      "Id": "Wand",
+      "Text": "[Wand|ワンド]"
+    }
+  },
+  {
+    "English": {
+      "Id": "One Hand Axe",
+      "Text": "[Axe|One Hand Axe]"
+    },
+    "Japanese": {
+      "Id": "One Hand Axe",
+      "Text": "[Axe|片手斧]"
+    }
+  },
+  {
+    "English": {
+      "Id": "Bow",
+      "Text": "[Bow]"
+    },
+    "Japanese": {
+      "Id": "Bow",
+      "Text": "[Bow|弓]"
+    }
+  },
+  {
+    "English": {
+      "Id": "Two Hand Sword",
+      "Text": "[Sword|Two Hand Sword]"
+    },
+    "Japanese": {
+      "Id": "Two Hand Sword",
+      "Text": "[Sword|両手剣]"
+    }
+  },
+  {
+    "English": {
+      "Id": "Two Hand Axe",
+      "Text": "[Axe|Two Hand Axe]"
+    },
+    "Japanese": {
+      "Id": "Two Hand Axe",
+      "Text": "[Axe|両手斧]"
+    }
+  },
+  {
+    "English": {
+      "Id": "Two Hand Mace",
+      "Text": "[Mace|Two Hand Mace]"
+    },
+    "Japanese": {
+      "Id": "Two Hand Mace",
+      "Text": "[Mace|両手メイス]"
+    }
+  },
+  {
+    "English": {
+      "Id": "Active Skill Gem",
+      "Text": "Skill Gem"
+    },
+    "Japanese": {
+      "Id": "Active Skill Gem",
+      "Text": "スキルジェム"
+    }
+  },
+  {
+    "English": {
+      "Id": "Support Skill Gem",
+      "Text": "Support Gem"
+    },
+    "Japanese": {
+      "Id": "Support Skill Gem",
+      "Text": "サポートジェム"
+    }
+  },
+  {
+    "English": {
+      "Id": "Quiver",
+      "Text": "[Quiver]"
+    },
+    "Japanese": {
+      "Id": "Quiver",
+      "Text": "[Quiver|矢筒]"
+    }
+  },
+  {
+    "English": {
+      "Id": "Belt",
+      "Text": "Belt"
+    },
+    "Japanese": {
+      "Id": "Belt",
+      "Text": "ベルト"
+    }
+  },
+  {
+    "English": {
+      "Id": "Gloves",
+      "Text": "Gloves"
+    },
+    "Japanese": {
+      "Id": "Gloves",
+      "Text": "手袋"
+    }
+  },
+  {
+    "English": {
+      "Id": "Boots",
+      "Text": "Boots"
+    },
+    "Japanese": {
+      "Id": "Boots",
+      "Text": "靴"
+    }
+  },
+  {
+    "English": {
+      "Id": "Body Armour",
+      "Text": "Body Armour"
+    },
+    "Japanese": {
+      "Id": "Body Armour",
+      "Text": "鎧"
+    }
+  },
+  {
+    "English": {
+      "Id": "Helmet",
+      "Text": "Helmet"
+    },
+    "Japanese": {
+      "Id": "Helmet",
+      "Text": "兜"
+    }
+  },
+  {
+    "English": {
+      "Id": "Shield",
+      "Text": "[Shield]"
+    },
+    "Japanese": {
+      "Id": "Shield",
+      "Text": "[Shield|盾]"
+    }
+  },
+  {
+    "English": {
+      "Id": "QuestItem",
+      "Text": "[QuestItem|Quest Item]"
+    },
+    "Japanese": {
+      "Id": "QuestItem",
+      "Text": "[QuestItem|クエストアイテム]"
+    }
+  },
+  {
+    "English": {
+      "Id": "Map",
+      "Text": ""
+    },
+    "Japanese": {
+      "Id": "Map",
+      "Text": "マップ"
+    }
+  },
+  {
+    "English": {
+      "Id": "FishingRod",
+      "Text": "Fishing Rod"
+    },
+    "Japanese": {
+      "Id": "FishingRod",
+      "Text": "釣り竿"
+    }
+  },
+  {
+    "English": {
+      "Id": "MapFragment",
+      "Text": "Map Fragment"
+    },
+    "Japanese": {
+      "Id": "MapFragment",
+      "Text": "マップの断片"
+    }
+  },
+  {
+    "English": {
+      "Id": "Jewel",
+      "Text": "[Jewel]"
+    },
+    "Japanese": {
+      "Id": "Jewel",
+      "Text": "[Jewel|ジュエル]"
+    }
+  },
+  {
+    "English": {
+      "Id": "DivinationCard",
+      "Text": "Divination Card"
+    },
+    "Japanese": {
+      "Id": "DivinationCard",
+      "Text": "占いカード"
+    }
+  },
+  {
+    "English": {
+      "Id": "LabyrinthItem",
+      "Text": "Labyrinth Key"
+    },
+    "Japanese": {
+      "Id": "LabyrinthItem",
+      "Text": "ラビリンスキー"
+    }
+  },
+  {
+    "English": {
+      "Id": "LabyrinthTrinket",
+      "Text": "Labyrinth Trinket"
+    },
+    "Japanese": {
+      "Id": "LabyrinthTrinket",
+      "Text": "ラビリンス宝飾品"
+    }
+  },
+  {
+    "English": {
+      "Id": "MiscMapItem",
+      "Text": ""
+    },
+    "Japanese": {
+      "Id": "MiscMapItem",
+      "Text": ""
+    }
+  },
+  {
+    "English": {
+      "Id": "Leaguestone",
+      "Text": "Leaguestone"
+    },
+    "Japanese": {
+      "Id": "Leaguestone",
+      "Text": "リーグストーン"
+    }
+  },
+  {
+    "English": {
+      "Id": "PantheonSoul",
+      "Text": "Captured Soul"
+    },
+    "Japanese": {
+      "Id": "PantheonSoul",
+      "Text": "捕獲された魂"
+    }
+  },
+  {
+    "English": {
+      "Id": "UniqueFragment",
+      "Text": "Unique Piece"
+    },
+    "Japanese": {
+      "Id": "UniqueFragment",
+      "Text": "ユニークの欠片"
+    }
+  },
+  {
+    "English": {
+      "Id": "AbyssJewel",
+      "Text": "Abyss Jewel"
+    },
+    "Japanese": {
+      "Id": "AbyssJewel",
+      "Text": "アビスジュエル"
+    }
+  },
+  {
+    "English": {
+      "Id": "IncursionItem",
+      "Text": "Incursion Item"
+    },
+    "Japanese": {
+      "Id": "IncursionItem",
+      "Text": "インカージョンアイテム"
+    }
+  },
+  {
+    "English": {
+      "Id": "DelveSocketableCurrency",
+      "Text": "Resonator"
+    },
+    "Japanese": {
+      "Id": "DelveSocketableCurrency",
+      "Text": "レゾネーター"
+    }
+  },
+  {
+    "English": {
+      "Id": "Incubator",
+      "Text": "Incubator"
+    },
+    "Japanese": {
+      "Id": "Incubator",
+      "Text": "インキュベーター"
+    }
+  },
+  {
+    "English": {
+      "Id": "AtlasUpgradeItem",
+      "Text": "Watchstone"
+    },
+    "Japanese": {
+      "Id": "AtlasUpgradeItem",
+      "Text": "ウォッチストーン"
+    }
+  },
+  {
+    "English": {
+      "Id": "HeistContract",
+      "Text": "Contract"
+    },
+    "Japanese": {
+      "Id": "HeistContract",
+      "Text": "依頼書"
+    }
+  },
+  {
+    "English": {
+      "Id": "HeistEquipmentWeapon",
+      "Text": "Heist Gear"
+    },
+    "Japanese": {
+      "Id": "HeistEquipmentWeapon",
+      "Text": "ハイストギア"
+    }
+  },
+  {
+    "English": {
+      "Id": "HeistEquipmentTool",
+      "Text": "Heist Tool"
+    },
+    "Japanese": {
+      "Id": "HeistEquipmentTool",
+      "Text": "ハイストツール"
+    }
+  },
+  {
+    "English": {
+      "Id": "HeistEquipmentUtility",
+      "Text": "Heist Cloak"
+    },
+    "Japanese": {
+      "Id": "HeistEquipmentUtility",
+      "Text": "ハイストクローク"
+    }
+  },
+  {
+    "English": {
+      "Id": "HeistEquipmentReward",
+      "Text": "Heist Brooch"
+    },
+    "Japanese": {
+      "Id": "HeistEquipmentReward",
+      "Text": "ハイストブローチ"
+    }
+  },
+  {
+    "English": {
+      "Id": "HeistBlueprint",
+      "Text": "Blueprint"
+    },
+    "Japanese": {
+      "Id": "HeistBlueprint",
+      "Text": "計画書"
+    }
+  },
+  {
+    "English": {
+      "Id": "Trinket",
+      "Text": "Trinket"
+    },
+    "Japanese": {
+      "Id": "Trinket",
+      "Text": "トリンケット"
+    }
+  },
+  {
+    "English": {
+      "Id": "HeistObjective",
+      "Text": "Heist Target"
+    },
+    "Japanese": {
+      "Id": "HeistObjective",
+      "Text": "ハイストターゲット"
+    }
+  },
+  {
+    "English": {
+      "Id": "ExpeditionLogbook",
+      "Text": "Expedition Logbook"
+    },
+    "Japanese": {
+      "Id": "ExpeditionLogbook",
+      "Text": "エクスペディションログブック"
+    }
+  },
+  {
+    "English": {
+      "Id": "InstanceLocalItem",
+      "Text": "Instance Local Item"
+    },
+    "Japanese": {
+      "Id": "InstanceLocalItem",
+      "Text": "インスタンスローカルアイテム"
+    }
+  },
+  {
+    "English": {
+      "Id": "SentinelDrone",
+      "Text": "Sentinel Drone"
+    },
+    "Japanese": {
+      "Id": "SentinelDrone",
+      "Text": "センチネルドローン"
+    }
+  },
+  {
+    "English": {
+      "Id": "Relic",
+      "Text": "Relic"
+    },
+    "Japanese": {
+      "Id": "Relic",
+      "Text": "レリック"
+    }
+  },
+  {
+    "English": {
+      "Id": "MemoryLine",
+      "Text": "Memory"
+    },
+    "Japanese": {
+      "Id": "MemoryLine",
+      "Text": "記憶"
+    }
+  },
+  {
+    "English": {
+      "Id": "Breachstone",
+      "Text": "Breachstone"
+    },
+    "Japanese": {
+      "Id": "Breachstone",
+      "Text": "ブリーチストーン"
+    }
+  },
+  {
+    "English": {
+      "Id": "VaultKey",
+      "Text": "Vault Key"
+    },
+    "Japanese": {
+      "Id": "VaultKey",
+      "Text": "金庫の鍵"
+    }
+  },
+  {
+    "English": {
+      "Id": "Spear",
+      "Text": "[Spear]"
+    },
+    "Japanese": {
+      "Id": "Spear",
+      "Text": "[Spear|槍]"
+    }
+  },
+  {
+    "English": {
+      "Id": "Crossbow",
+      "Text": "[Crossbow]"
+    },
+    "Japanese": {
+      "Id": "Crossbow",
+      "Text": "[Crossbow|クロスボウ]"
+    }
+  },
+  {
+    "English": {
+      "Id": "Focus",
+      "Text": "[Focus]"
+    },
+    "Japanese": {
+      "Id": "Focus",
+      "Text": "[Focus|フォーカス]"
+    }
+  },
+  {
+    "English": {
+      "Id": "Flail",
+      "Text": "[Flail]"
+    },
+    "Japanese": {
+      "Id": "Flail",
+      "Text": "[Flail|フレイル]"
+    }
+  },
+  {
+    "English": {
+      "Id": "Sceptre",
+      "Text": "[Sceptre]"
+    },
+    "Japanese": {
+      "Id": "Sceptre",
+      "Text": "[Sceptre|セプター]"
+    }
+  },
+  {
+    "English": {
+      "Id": "Buckler",
+      "Text": "Buckler"
+    },
+    "Japanese": {
+      "Id": "Buckler",
+      "Text": "バックラー"
+    }
+  },
+  {
+    "English": {
+      "Id": "TrapTool",
+      "Text": "[Trap]"
+    },
+    "Japanese": {
+      "Id": "TrapTool",
+      "Text": "[Trap|トラップ]"
+    }
+  },
+  {
+    "English": {
+      "Id": "MetaSkillGem",
+      "Text": ""
+    },
+    "Japanese": {
+      "Id": "MetaSkillGem",
+      "Text": ""
+    }
+  },
+  {
+    "English": {
+      "Id": "UncutSkillGem",
+      "Text": ""
+    },
+    "Japanese": {
+      "Id": "UncutSkillGem",
+      "Text": ""
+    }
+  },
+  {
+    "English": {
+      "Id": "Unarmed",
+      "Text": "[Unarmed]"
+    },
+    "Japanese": {
+      "Id": "Unarmed",
+      "Text": "[Unarmed|素手状態]"
+    }
+  },
+  {
+    "English": {
+      "Id": "SoulCore",
+      "Text": "Soul Core"
+    },
+    "Japanese": {
+      "Id": "SoulCore",
+      "Text": "ソウルコア"
+    }
+  },
+  {
+    "English": {
+      "Id": "TowerAugment",
+      "Text": "Tablet"
+    },
+    "Japanese": {
+      "Id": "TowerAugment",
+      "Text": "石板"
+    }
+  },
+  {
+    "English": {
+      "Id": "Charm",
+      "Text": "Charm"
+    },
+    "Japanese": {
+      "Id": "Charm",
+      "Text": "チャーム"
+    }
+  },
+  {
+    "English": {
+      "Id": "Omen",
+      "Text": "Omen"
+    },
+    "Japanese": {
+      "Id": "Omen",
+      "Text": "お告げ"
+    }
+  }
+]
